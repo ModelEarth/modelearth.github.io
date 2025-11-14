@@ -12,7 +12,7 @@ Our webroot repo loads these submodules, plus claude.md and [vector_sync.yml](ht
 
 | Name | Repository | Description |
 |------|------------|-------------|
-| [webroot](../) | [github.com/modelearth/webroot](https://github.com/modelearth/webroot) | PartnerTools webroot |
+| [webroot](https://model.earth/webroot/) | [github.com/modelearth/webroot](https://github.com/modelearth/webroot) | PartnerTools webroot |
 | [cloud](../cloud/) | [github.com/modelearth/cloud](https://github.com/modelearth/cloud) | Flask for python colabs |
 | [codechat](https://github.com/ananthpai1998/codechat/) | [github.com/ananthpai1998/codechat](https://github.com/ananthpai1998/codechat) | Chat UX |
 | [codechat-vectors](../codechat-vectors/) | [github.com/modelearth/codechat-vectors](https://github.com/modelearth/codechat-vectors) | Chat RAG using Pinecone |
