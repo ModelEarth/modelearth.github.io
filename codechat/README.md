@@ -14,8 +14,8 @@ Our webroot repo loads these submodules, plus claude.md and [vector_sync.yml](ht
 |------|------------|-------------|
 | [webroot](../) | [github.com/modelearth/webroot](https://github.com/modelearth/webroot) | PartnerTools webroot |
 | [cloud](../cloud/) | [github.com/modelearth/cloud](https://github.com/modelearth/cloud) | Flask for python colabs |
-| [codechat](../codechat/) | [github.com/modelearth/codechat](https://github.com/modelearth/codechat) | Chat RAG using Pinecone |
-| [community-forecasting](../community-forecasting/) | [github.com/modelearth/community-forecasting](https://github.com/modelearth/community-forecasting) | Javascript-based ML with maps |
+| [codechat](https://github.com/ananthpai1998/codechat/) | [github.com/ananthpai1998/codechat](https://github.com/ananthpai1998/codechat) | Chat UX |
+| [codechat-vectors](../codechat-vectors/) | [github.com/modelearth/codechat-vectors](https://github.com/modelearth/codechat-vectors) | Chat RAG using Pinecone |
 | [comparison](../comparison/) | [github.com/modelearth/comparison](https://github.com/modelearth/comparison) | Trade Flow data visualizations |
 | [exiobase](../exiobase/) | [github.com/modelearth/comparison](https://github.com/modelearth/exiobase) | Trade data to CSV and SQL |
 | [feed](../feed/) | [github.com/modelearth/feed](https://github.com/modelearth/feed) | FeedPlayer video/gallery |
@@ -28,13 +28,14 @@ Our webroot repo loads these submodules, plus claude.md and [vector_sync.yml](ht
 | [realitystream](../realitystream/) | [github.com/modelearth/realitystream](https://github.com/modelearth/realitystream) | Run Models colab |
 | [reports](../reports/) | [github.com/modelearth/realitystream](https://github.com/modelearth/reports) | Output from RealityStream colab |
 | [swiper](../swiper/) | [github.com/modelearth/swiper](https://github.com/modelearth/swiper) | UI swiper component for FeedPlayer |
-| [team](../team/) | [github.com/modelearth/team](https://github.com/modelearth/team) | Rust API for Azure and AI Insights |
+| [team](../team/) | [github.com/modelearth/team](https://github.com/modelearth/team) | Rust API for Azure and AI Insights |  
+| [community-forecasting](../community-forecasting/) | [github.com/modelearth/community-forecasting](https://github.com/modelearth/community-forecasting) | Javascript ML with maps (2018) |
 
-Optional:
+<br>Optional:
 
 **Extra repos:** (forked and cloned into webroot) topojson, community, nisar, useeio-json, trade-data
 
-**Inactive repos:** planet, earthscape, modelearth
+**Inactive repos:** planet, earthscape
 
 ## Data-Pipeline (static csv and json output for fast web reports)
 
@@ -48,6 +49,5 @@ These output repos may be pulled into local webroots during data processing, but
 | [community-data](../community-data/) | [github.com/modelearth/community-data](https://github.com/modelearth/community-data) | Community-level data outputs |
 | [community-timelines](../community-timelines/) | [github.com/modelearth/community-timelines](https://github.com/modelearth/community-timelines) | Timeline data for communities |
 | [community-zipcodes](../community-zipcodes/) | [github.com/modelearth/community-zipcodes](https://github.com/modelearth/community-zipcodes) | ZIP code level community data |
-| [community-forecasting](../community-forecasting/) | [github.com/modelearth/community-forecasting](https://github.com/modelearth/community-forecasting) | Forecasting frontend (legacy) |
-| [dataflow](../dataflow/) | [github.com/modelearth/dataflow](https://github.com/modelearth/dataflow) | Data flow NextJS UX |
+
 
