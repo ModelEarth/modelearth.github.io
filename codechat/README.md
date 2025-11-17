@@ -1,12 +1,12 @@
 # ModelEarth Repositories
 
-[codechat dev](https://github.com/ananthpai1998/codechat) - NextJS UX parent repo
+[Earthscape chat dev](https://github.com/Earthscape/chat) - Our NextJS Vercel deployment parent repo. <!-- ananthpai1998 -->
 
-[codechat-vectors](/codechat-vectors) - Pinecone Vectors from repos
+[ModelEarth chat fork](https://github.com/ModelEarth/chat) - For chat trained with our model.earth repos.
 
-Model.earth webroot submodules and data-pipeline output repos:
+[codechat-vectors](/codechat-vectors) - Pinecone Vectors trained with [modelearth repos](https://github.com/modelearth/) listed below.
 
-## Webroot
+## Model.earth Repos
 
 Our webroot repo loads these submodules, plus claude.md and [vector_sync.yml](https://github.com/ModelEarth/webroot/blob/main/.github/workflows/vector_sync.yml) - [Get Started](https://model.earth/webroot/)
 
@@ -14,7 +14,7 @@ Our webroot repo loads these submodules, plus claude.md and [vector_sync.yml](ht
 |------|------------|-------------|
 | [webroot](https://model.earth/webroot/) | [github.com/modelearth/webroot](https://github.com/modelearth/webroot) | PartnerTools webroot |
 | [cloud](../cloud/) | [github.com/modelearth/cloud](https://github.com/modelearth/cloud) | Flask for python colabs |
-| [codechat](https://github.com/ananthpai1998/codechat/) | [github.com/ananthpai1998/codechat](https://github.com/ananthpai1998/codechat) | Chat UX |
+| [chat](../chat/) | [github.com/modelearth/chat](https://github.com/modelearth/chat) | Chat UX |
 | [codechat-vectors](../codechat-vectors/) | [github.com/modelearth/codechat-vectors](https://github.com/modelearth/codechat-vectors) | Chat RAG using Pinecone |
 | [comparison](../comparison/) | [github.com/modelearth/comparison](https://github.com/modelearth/comparison) | Trade Flow data visualizations |
 | [exiobase](../exiobase/) | [github.com/modelearth/comparison](https://github.com/modelearth/exiobase) | Trade data to CSV and SQL |
