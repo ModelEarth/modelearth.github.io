@@ -35,8 +35,6 @@ Our webroot repo loads these submodules, plus claude.md and [vector_sync.yml](ht
 
 **Extra repos:** (forked and cloned into webroot) topojson, community, nisar, useeio-json, trade-data
 
-**Inactive repos:** planet, earthscape
-
 ## Data-Pipeline (static csv and json output for fast web reports)
 
 These output repos may be pulled into local webroots during data processing, but we avoid committing these as a submodules in the webroots due to their large size. The static data in these repos is pulled directly through Github Pages and the Cloudflare CDN.
