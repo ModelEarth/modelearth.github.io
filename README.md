@@ -1,7 +1,5 @@
 # modelearth.github.io
 
-The codechat folder here provides an overview.
+The codechat repo provides a list of primary submodules
 
-The primary codechat source resides at:
-
-https://github.com/ananthpai1998/codechat
+https://model.earth/codechat
